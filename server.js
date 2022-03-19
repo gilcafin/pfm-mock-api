@@ -7,6 +7,8 @@ const server = jsonServer.create();
 const router = jsonServer.router("./database.json");
 const userdb = JSON.parse(fs.readFileSync("./users.json", "UTF-8"));
 
+const port = process.env.PORT || 8000;
+
 server.use(bodyParser.urlencoded({ extended: true }));
 server.use(bodyParser.json());
 server.use(jsonServer.defaults());
@@ -147,6 +149,4 @@ router.render = (req, res) => {
 
 server.use(router);
 
-server.listen(8000, () => {
-  console.log("Run Auth API Server");
-});
+server.listen(port);
