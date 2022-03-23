@@ -81,7 +81,151 @@
       "chargeable": false
     }
   ],
+  "ddde998e39f1892650715c23817c09e102ac1ec4": [
+    {
+      "id": 2602028,
+      "dateCreated": 1646765391112,
+      "lastUpdated": 1646765391112,
+      "nature": "Mortgage",
+      "name": "Home Loan Account",
+      "number": "8860",
+      "balance": 213.0,
+      "chargeable": false
+    },
+    {
+      "id": 2602027,
+      "dateCreated": 1646765390092,
+      "lastUpdated": 1646765390092,
+      "nature": "Mortgage",
+      "name": "Home Loan Account",
+      "number": "8860",
+      "balance": 213.0,
+      "chargeable": false
+    },
+    {
+      "id": 2602026,
+      "dateCreated": 1646765388759,
+      "lastUpdated": 1646765388759,
+      "nature": "Mortgage",
+      "name": "Home Loan Account",
+      "number": "8860",
+      "balance": 213.0,
+      "chargeable": false
+    },
+    {
+      "id": 2602025,
+      "dateCreated": 1646765387827,
+      "lastUpdated": 1646765387827,
+      "nature": "Mortgage",
+      "name": "Home Loan Account",
+      "number": "8860",
+      "balance": 213.0,
+      "chargeable": false
+    },
+    {
+      "id": 1858587,
+      "dateCreated": 1645740394719,
+      "lastUpdated": 1645740394719,
+      "nature": "Mortgage",
+      "name": "Personal Loan Account",
+      "number": "0980",
+      "balance": 953.21,
+      "chargeable": false
+    },
+    {
+      "id": 1486883,
+      "dateCreated": 1645206950067,
+      "lastUpdated": 1645206950067,
+      "nature": "Mortgage",
+      "name": "Auto Loan Account",
+      "number": "0333",
+      "balance": 225.85,
+      "chargeable": false
+    },
+    {
+      "id": 1486881,
+      "dateCreated": 1645206891084,
+      "lastUpdated": 1645206891084,
+      "nature": "Mortgage",
+      "name": "Investment Account",
+      "number": "2911",
+      "balance": 565.61,
+      "chargeable": false
+    },
+    {
+      "id": 1486877,
+      "dateCreated": 1645071047004,
+      "lastUpdated": 1645071047004,
+      "nature": "Mortgage",
+      "name": "Money Market Account",
+      "number": "5145",
+      "balance": 494.99,
+      "chargeable": false
+    }
+  ],
   "transactions": [
+    {
+      "id": 1486898,
+      "dateCreated": 1645206951430,
+      "lastUpdated": 1645212335450,
+      "date": 1645212335,
+      "charge": false,
+      "description": "deposit",
+      "amount": 843.27,
+      "categoryId": 79
+    },
+    {
+      "id": 2230312,
+      "dateCreated": 1646323764947,
+      "lastUpdated": 1646258770415,
+      "date": 1646323764947,
+      "charge": true,
+      "description": "Test",
+      "amount": 200.0,
+      "categoryId": 82
+    },
+    {
+      "id": 2230311,
+      "dateCreated": 1646323764947,
+      "lastUpdated": 1646258651488,
+      "date": 1646323764947,
+      "charge": true,
+      "description": "Test",
+      "amount": 200.0,
+      "categoryId": 82
+    },
+    {
+      "id": 2230310,
+      "dateCreated": 1646258563935,
+      "lastUpdated": 1646258563935,
+      "date": 1645632564947,
+      "charge": false,
+      "description": "Test",
+      "amount": 200.0,
+      "categoryId": 82
+    },
+    {
+      "id": 1486890,
+      "dateCreated": 1645071156605,
+      "lastUpdated": 1645071156605,
+      "date": 1645071152000,
+      "charge": false,
+      "description": "deposit",
+      "amount": 170.51,
+      "categoryId": 79
+    },
+    {
+      "id": 1486889,
+      "dateCreated": 1645071148898,
+      "lastUpdated": 1645071148898,
+      "date": 1645071144000,
+      "charge": true,
+      "description": "invoice",
+      "amount": 567.18,
+      "categoryId": 79
+    }
+  ],
+  "cc6ba13e82dbaf4505ae7324c0c151aa53622329": [
     {
       "id": 1486898,
       "dateCreated": 1645206951430,
@@ -1009,7 +1153,923 @@
       "parentCategoryId": null
     }
   ],
+  "b07db4dc65bda086ae37ffeb8e03a126b18ffa6f": [
+    {
+      "id": 1487870,
+      "dateCreated": 1646078295416,
+      "lastUpdated": 1646078295416,
+      "userId": 1115162,
+      "name": "Gastos Hormiga",
+      "color": "#FF0000",
+      "parentCategoryId": null
+    },
+    {
+      "id": 1487869,
+      "dateCreated": 1646073848172,
+      "lastUpdated": 1646956896703,
+      "userId": 1115162,
+      "name": "Cars",
+      "color": "#00FF00",
+      "parentCategoryId": null
+    },
+    {
+      "id": 744444,
+      "dateCreated": 1645206952534,
+      "lastUpdated": 1645206952534,
+      "userId": 1115162,
+      "name": "Computers",
+      "color": "#2c6801",
+      "parentCategoryId": null
+    },
+    {
+      "id": 744442,
+      "dateCreated": 1645206892840,
+      "lastUpdated": 1645206892840,
+      "userId": 1115162,
+      "name": "Industrial",
+      "color": "#1a4c6e",
+      "parentCategoryId": 372719
+    },
+    {
+      "id": 92,
+      "dateCreated": null,
+      "lastUpdated": null,
+      "userId": null,
+      "name": "Sin sub categoria",
+      "color": "#FFFFFF",
+      "parentCategoryId": 91
+    },
+    {
+      "id": 91,
+      "dateCreated": null,
+      "lastUpdated": null,
+      "userId": null,
+      "name": "Sin categoria",
+      "color": "#FFFFFF",
+      "parentCategoryId": null
+    },
+    {
+      "id": 90,
+      "dateCreated": null,
+      "lastUpdated": null,
+      "userId": null,
+      "name": "Otros Regalos y Ayuda",
+      "color": "#F68EE8",
+      "parentCategoryId": 7
+    },
+    {
+      "id": 89,
+      "dateCreated": null,
+      "lastUpdated": null,
+      "userId": null,
+      "name": "Apoyo a Familiares y Amigos",
+      "color": "#F57FE5",
+      "parentCategoryId": 7
+    },
+    {
+      "id": 88,
+      "dateCreated": null,
+      "lastUpdated": null,
+      "userId": null,
+      "name": "Otros Alimentos",
+      "color": "#FED56B",
+      "parentCategoryId": 2
+    },
+    {
+      "id": 87,
+      "dateCreated": null,
+      "lastUpdated": null,
+      "userId": null,
+      "name": "Teléfono Celular",
+      "color": "#CBE292",
+      "parentCategoryId": 1
+    },
+    {
+      "id": 86,
+      "dateCreated": null,
+      "lastUpdated": null,
+      "userId": null,
+      "name": "Reembolsos y Devoluciones",
+      "color": "#33CFFD",
+      "parentCategoryId": 12
+    },
+    {
+      "id": 85,
+      "dateCreated": null,
+      "lastUpdated": null,
+      "userId": null,
+      "name": "Otros Ingresos",
+      "color": "#66DBFE",
+      "parentCategoryId": 12
+    },
+    {
+      "id": 84,
+      "dateCreated": null,
+      "lastUpdated": null,
+      "userId": null,
+      "name": "Inversiones",
+      "color": "#59D8FE",
+      "parentCategoryId": 12
+    },
+    {
+      "id": 83,
+      "dateCreated": null,
+      "lastUpdated": null,
+      "userId": null,
+      "name": "Rentas",
+      "color": "#4DD5FE",
+      "parentCategoryId": 12
+    },
+    {
+      "id": 82,
+      "dateCreated": null,
+      "lastUpdated": null,
+      "userId": null,
+      "name": "Sueldo",
+      "color": "#40D2FE",
+      "parentCategoryId": 12
+    },
+    {
+      "id": 81,
+      "dateCreated": null,
+      "lastUpdated": null,
+      "userId": null,
+      "name": "Bonos",
+      "color": "#26CCFD",
+      "parentCategoryId": 12
+    },
+    {
+      "id": 80,
+      "dateCreated": null,
+      "lastUpdated": null,
+      "userId": null,
+      "name": "Préstamos",
+      "color": "#22C9FD",
+      "parentCategoryId": 12
+    },
+    {
+      "id": 79,
+      "dateCreated": null,
+      "lastUpdated": null,
+      "userId": null,
+      "name": "Otros Transacciones Bancarias",
+      "color": "#8F68DC",
+      "parentCategoryId": 11
+    },
+    {
+      "id": 78,
+      "dateCreated": null,
+      "lastUpdated": null,
+      "userId": null,
+      "name": "Cajero automático",
+      "color": "#7E52D7",
+      "parentCategoryId": 11
+    },
+    {
+      "id": 77,
+      "dateCreated": null,
+      "lastUpdated": null,
+      "userId": null,
+      "name": "Cheques ",
+      "color": "#7748D4",
+      "parentCategoryId": 11
+    },
+    {
+      "id": 76,
+      "dateCreated": null,
+      "lastUpdated": null,
+      "userId": null,
+      "name": "Software",
+      "color": "#D591B1",
+      "parentCategoryId": 6
+    },
+    {
+      "id": 75,
+      "dateCreated": null,
+      "lastUpdated": null,
+      "userId": null,
+      "name": "Otros Viajes",
+      "color": "#B07CC6",
+      "parentCategoryId": 8
+    },
+    {
+      "id": 74,
+      "dateCreated": null,
+      "lastUpdated": null,
+      "userId": null,
+      "name": "Otros Finanzas e Impuestos",
+      "color": "#B4A8EF",
+      "parentCategoryId": 9
+    },
+    {
+      "id": 73,
+      "dateCreated": null,
+      "lastUpdated": null,
+      "userId": null,
+      "name": "Transferencias",
+      "color": "#865DDA",
+      "parentCategoryId": 11
+    },
+    {
+      "id": 72,
+      "dateCreated": null,
+      "lastUpdated": null,
+      "userId": null,
+      "name": "Pago Tarjeta de Crédito",
+      "color": "#6F3DD1",
+      "parentCategoryId": 11
+    },
+    {
+      "id": 71,
+      "dateCreated": null,
+      "lastUpdated": null,
+      "userId": null,
+      "name": "Impuestos",
+      "color": "#9D8EEA",
+      "parentCategoryId": 9
+    },
+    {
+      "id": 70,
+      "dateCreated": null,
+      "lastUpdated": null,
+      "userId": null,
+      "name": "Estacionamiento",
+      "color": "#8FEAD5",
+      "parentCategoryId": 5
+    },
+    {
+      "id": 69,
+      "dateCreated": null,
+      "lastUpdated": null,
+      "userId": null,
+      "name": "Lavandería y Tintorería",
+      "color": "#34B5B6",
+      "parentCategoryId": 10
+    },
+    {
+      "id": 68,
+      "dateCreated": null,
+      "lastUpdated": null,
+      "userId": null,
+      "name": "Salón de belleza",
+      "color": "#FC5E8F",
+      "parentCategoryId": 4
+    },
+    {
+      "id": 67,
+      "dateCreated": null,
+      "lastUpdated": null,
+      "userId": null,
+      "name": "Autolavado",
+      "color": "#5CE1C1",
+      "parentCategoryId": 5
+    },
+    {
+      "id": 66,
+      "dateCreated": null,
+      "lastUpdated": null,
+      "userId": null,
+      "name": "Restaurante",
+      "color": "#FED261",
+      "parentCategoryId": 2
+    },
+    {
+      "id": 65,
+      "dateCreated": null,
+      "lastUpdated": null,
+      "userId": null,
+      "name": "Hospedaje",
+      "color": "#9A57B5",
+      "parentCategoryId": 8
+    },
+    {
+      "id": 64,
+      "dateCreated": null,
+      "lastUpdated": null,
+      "userId": null,
+      "name": "Bares y Restaurantes",
+      "color": "#FDBC7C",
+      "parentCategoryId": 3
+    },
+    {
+      "id": 63,
+      "dateCreated": null,
+      "lastUpdated": null,
+      "userId": null,
+      "name": "Museos y Parques",
+      "color": "#FDB269",
+      "parentCategoryId": 3
+    },
+    {
+      "id": 62,
+      "dateCreated": null,
+      "lastUpdated": null,
+      "userId": null,
+      "name": "Donaciones",
+      "color": "#F477E3",
+      "parentCategoryId": 7
+    },
+    {
+      "id": 61,
+      "dateCreated": null,
+      "lastUpdated": null,
+      "userId": null,
+      "name": "Otros Salud y Belleza",
+      "color": "#FD97B7",
+      "parentCategoryId": 4
+    },
+    {
+      "id": 60,
+      "dateCreated": null,
+      "lastUpdated": null,
+      "userId": null,
+      "name": "Dentista",
+      "color": "#FD6895",
+      "parentCategoryId": 4
+    },
+    {
+      "id": 59,
+      "dateCreated": null,
+      "lastUpdated": null,
+      "userId": null,
+      "name": "Médico",
+      "color": "#FD84A9",
+      "parentCategoryId": 4
+    },
+    {
+      "id": 58,
+      "dateCreated": null,
+      "lastUpdated": null,
+      "userId": null,
+      "name": "Otros Educación y Trabajo",
+      "color": "#C66995",
+      "parentCategoryId": 6
+    },
+    {
+      "id": 57,
+      "dateCreated": null,
+      "lastUpdated": null,
+      "userId": null,
+      "name": "Colegiatura",
+      "color": "#CA739C",
+      "parentCategoryId": 6
+    },
+    {
+      "id": 56,
+      "dateCreated": null,
+      "lastUpdated": null,
+      "userId": null,
+      "name": "Servicios Contables",
+      "color": "#C25F8D",
+      "parentCategoryId": 6
+    },
+    {
+      "id": 55,
+      "dateCreated": null,
+      "lastUpdated": null,
+      "userId": null,
+      "name": "Servicios Legales",
+      "color": "#BE5586",
+      "parentCategoryId": 6
+    },
+    {
+      "id": 54,
+      "dateCreated": null,
+      "lastUpdated": null,
+      "userId": null,
+      "name": "Espectáculos y Eventos",
+      "color": "#FEC58E",
+      "parentCategoryId": 3
+    },
+    {
+      "id": 53,
+      "dateCreated": null,
+      "lastUpdated": null,
+      "userId": null,
+      "name": "Renta y Compra",
+      "color": "#C3DD7D",
+      "parentCategoryId": 1
+    },
+    {
+      "id": 52,
+      "dateCreated": null,
+      "lastUpdated": null,
+      "userId": null,
+      "name": "Seguros y Fianzas",
+      "color": "#9888E9",
+      "parentCategoryId": 9
+    },
+    {
+      "id": 51,
+      "dateCreated": null,
+      "lastUpdated": null,
+      "userId": null,
+      "name": "Créditos",
+      "color": "#A99BEC",
+      "parentCategoryId": 9
+    },
+    {
+      "id": 50,
+      "dateCreated": null,
+      "lastUpdated": null,
+      "userId": null,
+      "name": "Ahorro e Inversiones",
+      "color": "#AFA2EE",
+      "parentCategoryId": 9
+    },
+    {
+      "id": 49,
+      "dateCreated": null,
+      "lastUpdated": null,
+      "userId": null,
+      "name": "Servicios Financieros",
+      "color": "#A395EB",
+      "parentCategoryId": 9
+    },
+    {
+      "id": 48,
+      "dateCreated": null,
+      "lastUpdated": null,
+      "userId": null,
+      "name": "Otros Servicios Profesionales ",
+      "color": "#D99BB8",
+      "parentCategoryId": 6
+    },
+    {
+      "id": 47,
+      "dateCreated": null,
+      "lastUpdated": null,
+      "userId": null,
+      "name": "Correo ",
+      "color": "#BB4B7F",
+      "parentCategoryId": 6
+    },
+    {
+      "id": 46,
+      "dateCreated": null,
+      "lastUpdated": null,
+      "userId": null,
+      "name": "Casetas ",
+      "color": "#85E8D1",
+      "parentCategoryId": 5
+    },
+    {
+      "id": 45,
+      "dateCreated": null,
+      "lastUpdated": null,
+      "userId": null,
+      "name": "Taxi",
+      "color": "#7AE6CD",
+      "parentCategoryId": 5
+    },
+    {
+      "id": 44,
+      "dateCreated": null,
+      "lastUpdated": null,
+      "userId": null,
+      "name": "Transporte Público",
+      "color": "#66E3C5",
+      "parentCategoryId": 5
+    },
+    {
+      "id": 43,
+      "dateCreated": null,
+      "lastUpdated": null,
+      "userId": null,
+      "name": "Otros Hogar",
+      "color": "#D1E59B",
+      "parentCategoryId": 1
+    },
+    {
+      "id": 42,
+      "dateCreated": null,
+      "lastUpdated": null,
+      "userId": null,
+      "name": "Botes y Cruceros",
+      "color": "#9F60B8",
+      "parentCategoryId": 8
+    },
+    {
+      "id": 41,
+      "dateCreated": null,
+      "lastUpdated": null,
+      "userId": null,
+      "name": "Transporte Viajes",
+      "color": "#A569BD",
+      "parentCategoryId": 8
+    },
+    {
+      "id": 40,
+      "dateCreated": null,
+      "lastUpdated": null,
+      "userId": null,
+      "name": "Vuelos",
+      "color": "#AA73C2",
+      "parentCategoryId": 8
+    },
+    {
+      "id": 39,
+      "dateCreated": null,
+      "lastUpdated": null,
+      "userId": null,
+      "name": "Gasolina",
+      "color": "#71E4C9",
+      "parentCategoryId": 5
+    },
+    {
+      "id": 38,
+      "dateCreated": null,
+      "lastUpdated": null,
+      "userId": null,
+      "name": "Mantenimiento y Refacciones",
+      "color": "#51DFBC",
+      "parentCategoryId": 5
+    },
+    {
+      "id": 37,
+      "dateCreated": null,
+      "lastUpdated": null,
+      "userId": null,
+      "name": "Automóvil y Motocicleta",
+      "color": "#48DDBA",
+      "parentCategoryId": 5
+    },
+    {
+      "id": 36,
+      "dateCreated": null,
+      "lastUpdated": null,
+      "userId": null,
+      "name": "Limpieza y Mantenimiento",
+      "color": "#BAD86A",
+      "parentCategoryId": 1
+    },
+    {
+      "id": 35,
+      "dateCreated": null,
+      "lastUpdated": null,
+      "userId": null,
+      "name": "Muebles y Aparatos Eléctricos",
+      "color": "#BFDB74",
+      "parentCategoryId": 1
+    },
+    {
+      "id": 34,
+      "dateCreated": null,
+      "lastUpdated": null,
+      "userId": null,
+      "name": "Regalos",
+      "color": "#F586E6",
+      "parentCategoryId": 7
+    },
+    {
+      "id": 33,
+      "dateCreated": null,
+      "lastUpdated": null,
+      "userId": null,
+      "name": "Mascotas",
+      "color": "#B5D560",
+      "parentCategoryId": 1
+    },
+    {
+      "id": 32,
+      "dateCreated": null,
+      "lastUpdated": null,
+      "userId": null,
+      "name": "Suscripciones y Apps",
+      "color": "#FDB772",
+      "parentCategoryId": 3
+    },
+    {
+      "id": 31,
+      "dateCreated": null,
+      "lastUpdated": null,
+      "userId": null,
+      "name": "Libros",
+      "color": "#D187AA",
+      "parentCategoryId": 6
+    },
+    {
+      "id": 30,
+      "dateCreated": null,
+      "lastUpdated": null,
+      "userId": null,
+      "name": "Papelería",
+      "color": "#CD7DA3",
+      "parentCategoryId": 6
+    },
+    {
+      "id": 29,
+      "dateCreated": null,
+      "lastUpdated": null,
+      "userId": null,
+      "name": "Ejercicio y Deportes",
+      "color": "#FD719B",
+      "parentCategoryId": 4
+    },
+    {
+      "id": 28,
+      "dateCreated": null,
+      "lastUpdated": null,
+      "userId": null,
+      "name": "Otros Entretenimiento",
+      "color": "#FECA98",
+      "parentCategoryId": 3
+    },
+    {
+      "id": 27,
+      "dateCreated": null,
+      "lastUpdated": null,
+      "userId": null,
+      "name": "Otros Auto y Transporte",
+      "color": "#99ECD8",
+      "parentCategoryId": 5
+    },
+    {
+      "id": 26,
+      "dateCreated": null,
+      "lastUpdated": null,
+      "userId": null,
+      "name": "Juguetes y Videojuegos",
+      "color": "#FDAD5F",
+      "parentCategoryId": 3
+    },
+    {
+      "id": 25,
+      "dateCreated": null,
+      "lastUpdated": null,
+      "userId": null,
+      "name": "Cine y Música",
+      "color": "#FDA956",
+      "parentCategoryId": 3
+    },
+    {
+      "id": 24,
+      "dateCreated": null,
+      "lastUpdated": null,
+      "userId": null,
+      "name": "Perfumes y Cosméticos",
+      "color": "#FC5588",
+      "parentCategoryId": 4
+    },
+    {
+      "id": 23,
+      "dateCreated": null,
+      "lastUpdated": null,
+      "userId": null,
+      "name": "Farmacia",
+      "color": "#FD7BA3",
+      "parentCategoryId": 4
+    },
+    {
+      "id": 22,
+      "dateCreated": null,
+      "lastUpdated": null,
+      "userId": null,
+      "name": "Calzado",
+      "color": "#1BACAD",
+      "parentCategoryId": 10
+    },
+    {
+      "id": 21,
+      "dateCreated": null,
+      "lastUpdated": null,
+      "userId": null,
+      "name": "Cuidado Personal",
+      "color": "#FD8EB0",
+      "parentCategoryId": 4
+    },
+    {
+      "id": 20,
+      "dateCreated": null,
+      "lastUpdated": null,
+      "userId": null,
+      "name": "Accesorios",
+      "color": "#27B1B2",
+      "parentCategoryId": 10
+    },
+    {
+      "id": 19,
+      "dateCreated": null,
+      "lastUpdated": null,
+      "userId": null,
+      "name": "Artículos para el Hogar",
+      "color": "#B1D356",
+      "parentCategoryId": 1
+    },
+    {
+      "id": 18,
+      "dateCreated": null,
+      "lastUpdated": null,
+      "userId": null,
+      "name": "Otros Ropa",
+      "color": "#4EBFBF",
+      "parentCategoryId": 10
+    },
+    {
+      "id": 17,
+      "dateCreated": null,
+      "lastUpdated": null,
+      "userId": null,
+      "name": "Alcohol y Tabaco",
+      "color": "#FEC185",
+      "parentCategoryId": 3
+    },
+    {
+      "id": 16,
+      "dateCreated": null,
+      "lastUpdated": null,
+      "userId": null,
+      "name": "Despensa",
+      "color": "#FECF58",
+      "parentCategoryId": 2
+    },
+    {
+      "id": 15,
+      "dateCreated": null,
+      "lastUpdated": null,
+      "userId": null,
+      "name": "Construcción y Remodelación",
+      "color": "#ACD04C",
+      "parentCategoryId": 1
+    },
+    {
+      "id": 14,
+      "dateCreated": null,
+      "lastUpdated": null,
+      "userId": null,
+      "name": "Servicios Públicos",
+      "color": "#C7E088",
+      "parentCategoryId": 1
+    },
+    {
+      "id": 13,
+      "dateCreated": null,
+      "lastUpdated": null,
+      "userId": null,
+      "name": "Ropa",
+      "color": "#41BABB",
+      "parentCategoryId": 10
+    },
+    {
+      "id": 12,
+      "dateCreated": null,
+      "lastUpdated": null,
+      "userId": null,
+      "name": "Ingresos",
+      "color": "#099FE2",
+      "parentCategoryId": null
+    },
+    {
+      "id": 11,
+      "dateCreated": null,
+      "lastUpdated": null,
+      "userId": null,
+      "name": "Transacciones Bancarias",
+      "color": "#5F27CD",
+      "parentCategoryId": null
+    },
+    {
+      "id": 10,
+      "dateCreated": null,
+      "lastUpdated": null,
+      "userId": null,
+      "name": "Ropa y Calzado",
+      "color": "#01A3A4",
+      "parentCategoryId": null
+    },
+    {
+      "id": 9,
+      "dateCreated": null,
+      "lastUpdated": null,
+      "userId": null,
+      "name": "Finanzas e Impuestos",
+      "color": "#8C7AE6",
+      "parentCategoryId": null
+    },
+    {
+      "id": 8,
+      "dateCreated": null,
+      "lastUpdated": null,
+      "userId": null,
+      "name": "Viajes",
+      "color": "#8E44AD",
+      "parentCategoryId": null
+    },
+    {
+      "id": 7,
+      "dateCreated": null,
+      "lastUpdated": null,
+      "userId": null,
+      "name": "Regalos y Ayuda",
+      "color": "#F368E0",
+      "parentCategoryId": null
+    },
+    {
+      "id": 6,
+      "dateCreated": null,
+      "lastUpdated": null,
+      "userId": null,
+      "name": "Educación y Trabajo",
+      "color": "#B33771",
+      "parentCategoryId": null
+    },
+    {
+      "id": 5,
+      "dateCreated": null,
+      "lastUpdated": null,
+      "userId": null,
+      "name": "Auto y Transporte",
+      "color": "#33D9B2",
+      "parentCategoryId": null
+    },
+    {
+      "id": 4,
+      "dateCreated": null,
+      "lastUpdated": null,
+      "userId": null,
+      "name": "Salud y Belleza",
+      "color": "#FC427B",
+      "parentCategoryId": null
+    },
+    {
+      "id": 3,
+      "dateCreated": null,
+      "lastUpdated": null,
+      "userId": null,
+      "name": "Entretenimiento",
+      "color": "#FF9F43",
+      "parentCategoryId": null
+    },
+    {
+      "id": 2,
+      "dateCreated": null,
+      "lastUpdated": null,
+      "userId": null,
+      "name": "Alimentos",
+      "color": "#FECA46",
+      "parentCategoryId": null
+    },
+    {
+      "id": 1,
+      "dateCreated": null,
+      "lastUpdated": null,
+      "userId": null,
+      "name": "Hogar",
+      "color": "#A3CB38",
+      "parentCategoryId": null
+    }
+  ],
   "budgets": [
+    {
+      "id": 1486877,
+      "dateCreated": 1646409828922,
+      "lastUpdated": 1646409828922,
+      "categoryId": 26,
+      "name": "Entretenimiento 2",
+      "amount": 5000,
+      "warningPercentage": 0.5,
+      "spent": 0,
+      "leftToSpend": 5000,
+      "status": "ok"
+    },
+    {
+      "id": 1486876,
+      "dateCreated": 1646409811449,
+      "lastUpdated": 1646409811449,
+      "categoryId": 25,
+      "name": "Entretenimiento 1",
+      "amount": 5000,
+      "warningPercentage": 0.5,
+      "spent": 0,
+      "leftToSpend": 5000,
+      "status": "ok"
+    },
+    {
+      "id": 1486874,
+      "dateCreated": 1646259181915,
+      "lastUpdated": 1646259181915,
+      "categoryId": 87,
+      "name": "Sports",
+      "amount": 178.17999267578125,
+      "warningPercentage": 0.7,
+      "spent": 0,
+      "leftToSpend": 178.17999267578125,
+      "status": "ok"
+    },
+    {
+      "id": 1486872,
+      "dateCreated": 1646257102160,
+      "lastUpdated": 1646257642253,
+      "categoryId": 3,
+      "name": "Gustos Culposos",
+      "amount": 1500,
+      "warningPercentage": 0.6,
+      "spent": 0,
+      "leftToSpend": 1500,
+      "status": "ok"
+    }
+  ],
+  "205e33ba58fee3ee07ef1a8cccc4ba9b97d3caf2": [
     {
       "id": 1486877,
       "dateCreated": 1646409828922,
@@ -1153,7 +2213,130 @@
       }
     ]
   },
+  "f4f8faab7f280eaf05fc812c285c7902f6a6d05a": {
+    "incomes": [
+      {
+        "date": 1643695200000,
+        "categories": [
+          {
+            "categoryId": 12,
+            "amount": 200.0,
+            "subcategories": [
+              {
+                "categoryId": 82,
+                "amount": 200.0,
+                "transactionsByDate": [
+                  {
+                    "date": 1645596000000,
+                    "transactions": [
+                      {
+                        "id": 2230310,
+                        "dateCreated": 1646258563935,
+                        "lastUpdated": 1646258563935,
+                        "date": 1645632564947,
+                        "charge": false,
+                        "description": "Test",
+                        "amount": 200.0,
+                        "categoryId": null
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "amount": 200.0
+      }
+    ],
+    "expenses": [
+      {
+        "date": 1646114400000,
+        "categories": [
+          {
+            "categoryId": 12,
+            "amount": 400.0,
+            "subcategories": [
+              {
+                "categoryId": 82,
+                "amount": 400.0,
+                "transactionsByDate": [
+                  {
+                    "date": 1646287200000,
+                    "transactions": [
+                      {
+                        "id": 2230312,
+                        "dateCreated": 1646323764947,
+                        "lastUpdated": 1646258770415,
+                        "date": 1646323764947,
+                        "charge": true,
+                        "description": "Test",
+                        "amount": 200.0,
+                        "categoryId": null
+                      },
+                      {
+                        "id": 2230311,
+                        "dateCreated": 1646323764947,
+                        "lastUpdated": 1646258651488,
+                        "date": 1646323764947,
+                        "charge": true,
+                        "description": "Test",
+                        "amount": 200.0,
+                        "categoryId": null
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "amount": 400.0
+      }
+    ],
+    "balances": [
+      {
+        "date": 1643695200000,
+        "incomes": 200.0,
+        "expenses": 0.0
+      },
+      {
+        "date": 1646114400000,
+        "incomes": 0.0,
+        "expenses": 400.0
+      }
+    ]
+  },
   "analysis": {
+    "data": [
+      {
+        "date": 1646114400000,
+        "categories": [
+          {
+            "categoryId": 12,
+            "amount": 400.0,
+            "subcategories": [
+              {
+                "categoryId": 82,
+                "amount": 400.0,
+                "average": 200.0,
+                "quantity": 2,
+                "transactions": [
+                  {
+                    "description": "Test",
+                    "average": 200.0,
+                    "quantity": 2,
+                    "amount": 400.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "824aa15eed3dfc815bd0bec5c34354d471a44557": {
     "data": [
       {
         "date": 1646114400000,
