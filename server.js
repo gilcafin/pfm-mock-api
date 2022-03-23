@@ -138,7 +138,11 @@ router.render = (req, res) => {
     (req.url === "/accounts" ||
       req.url === "/transactions" ||
       req.url === "/categories" ||
-      req.url === "/budgets")
+      req.url === "/budgets" ||
+      req.url === "/ddde998e39f1892650715c23817c09e102ac1ec4" ||
+      req.url === "/cc6ba13e82dbaf4505ae7324c0c151aa53622329" ||
+      req.url === "/b07db4dc65bda086ae37ffeb8e03a126b18ffa6f" ||
+      req.url === "/205e33ba58fee3ee07ef1a8cccc4ba9b97d3caf2")
   )
     res.jsonp({
       data: res.locals.data,
